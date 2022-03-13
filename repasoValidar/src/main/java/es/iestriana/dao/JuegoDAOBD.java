@@ -27,7 +27,7 @@ public class JuegoDAOBD implements JuegoDAO{
 									rs.getInt("anyo"), 
 									rs.getString("company"), 
 									rs.getString("type"), 
-									rs.getByte("photo"));
+									rs.getBytes("photo"));
 			}
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block

@@ -21,8 +21,8 @@
 				    <input type="text" class="form-control" id="name" name="name" aria-describedby="nameHelp" autofocus="autofocus" required="required">				    
 				  </div>
 				  <div class="mb-3">
-				    <label for="Company" class="form-label">Company</label>
-				    <input type="test" class="form-control" id="Company" name="Company" required="required">
+				    <label for="company" class="form-label">Company</label>
+				    <input type="text" class="form-control" id="company" name="company" required="required">
 				  </div>
 				  <button type="submit" class="btn btn-primary">Entrar</button>
 				  </form>

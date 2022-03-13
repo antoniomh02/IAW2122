@@ -31,9 +31,6 @@ public class Juego {
 		this.type = type;
 		this.photo = photo;
 	}
-	public Juego(int int1, String string, int int2, String string2, String string3, byte byte1) {
-		// TODO Auto-generated constructor stub
-	}
 	public int getIdVideogame() {
 		return idVideogame;
 	}
