@@ -70,4 +70,11 @@
     </pluginManagement>
   </build>
 </project>
-<!-- ARTACHO NO TIENE RABO -->
+<!-- añadir alimento: se debe crear un formulario que inserte un alimento en la base de datos.
+     si se inserta correctamente el alimento debe aparecer la nueva pagina principal.jsp. si el nombre del
+     alimento esta en la bd debe mostrar un mensaje indicando que no se puede añadir
+     
+     
+     listar alimentos: se debe mostrar una pagina con un listado de tosdos los alimentos de la web.
+     en este caso queremos ver todos sus datos. se deben mostrar los datos  de la mejor forma posible(caducidad: dia/mes/anyo)
+     queremos tener la posibilidad de borrar un alimento -->
